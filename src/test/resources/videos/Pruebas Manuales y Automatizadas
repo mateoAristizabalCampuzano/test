@@ -1,0 +1,14 @@
+INTEGRANTES:
+Mateo Aristizabal Campuzano
+Tomas Eduardo Aguilar Mariaca
+
+
+https://www.youtube.com/watch?v=H0qXDHDQj_Y&t=15s&ab_channel=MateoAristizabalCampuzano
+
+Es el link del primer video. La prueba trata de verificar si lo ingresado en la barra de texto coincide con el texto que sale justo debajo del input.
+
+
+https://www.youtube.com/watch?v=2dr3hGJKc44&ab_channel=MateoAristizabalCampuzano
+
+Es el link del segundo video. Al dar click en el link "Click here" El tercer parrafo del texto deberia cambiar, El test comprueba si cambia el texto. 
+Si cambia es true, si no cambia es false.
